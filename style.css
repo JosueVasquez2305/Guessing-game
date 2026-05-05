@@ -1,0 +1,92 @@
+/* General reset and font */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7df1e; /* Yellow background */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* The white card container */
+main {
+    background-color: white;
+    padding: 40px;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 320px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: #000;
+}
+
+h2 {
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Styled Input */
+#guessInput {
+    width: 80%;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+/* Main Button (Submit Guess) */
+#checkButton {
+    width: 100%;
+    padding: 15px;
+    background-color: #0000ff; /* Bright blue */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+#checkButton:hover {
+    background-color: #0000cc;
+}
+
+/* Reset Button */
+#resetButton {
+    margin-top: 15px;
+    background-color: transparent;
+    color: #555;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+/* Feedback messages */
+#displayMessage {
+    margin-top: 20px;
+    font-weight: bold;
+    min-height: 24px; /* Prevents layout jumping */
+}
+/* Para Chrome, Safari, Edge y Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Para Firefox */
+input[type=number] {
+  appearance: textfield;
+}
