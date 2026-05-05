@@ -22,4 +22,4 @@ Este es un proyecto de práctica para fortalecer mis conocimientos básicos en d
 ![Captura del Proyecto](assets/preview.png)
 
 ---
-Hecho con ❤️ por [CLICK HERE PLEASE <3](https://josuevasquez2305.github.io/Guessing-game/)
+Hecho con ❤️ [CLICK HERE PLEASE <3](https://josuevasquez2305.github.io/Guessing-game/)
