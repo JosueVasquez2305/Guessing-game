@@ -3,7 +3,7 @@
 
 ## 🚀 Demo
 Puedes probar el proyecto funcionando aquí:
-👉 [**CLICK HERE TO PLAY**](https://github.io)
+👉 [**CLICK HERE TO PLAY**](https://josuevasquez2305.github.io/Guessing-game/)
 
 ---
 
@@ -22,4 +22,4 @@ Este es un proyecto de práctica para fortalecer mis conocimientos básicos en d
 ![Captura del Proyecto](assets/preview.png)
 
 ---
-Hecho con ❤️ [CLICK HERE PLEASE <3](https://josuevasquez2305.github.io/Guessing-game/)
+Hecho con ❤️
